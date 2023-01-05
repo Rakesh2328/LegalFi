@@ -1,0 +1,2 @@
+# LegalFi
+LegalFi NFT app
