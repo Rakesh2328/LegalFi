@@ -1,0 +1,13 @@
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 1px;
+    background-color:white;
+    background-image: url('../public/assets/LegalFi-AI.png');
+    padding: 360px;
+  }
+  
+  
+  
+  
+  
